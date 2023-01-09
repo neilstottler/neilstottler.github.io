@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "nesman.dev",
     "description": "",
-    "home_page_url": "https://neilstottler.github.io/neilstottler.github.io",
-    "feed_url": "https://neilstottler.github.io/neilstottler.github.io/feed.json",
+    "home_page_url": "https://nesman.dev",
+    "feed_url": "https://nesman.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Neil Stottler"
     },
     "items": [
         {
-            "id": "https://neilstottler.github.io/neilstottler.github.io/laborde.html",
-            "url": "https://neilstottler.github.io/neilstottler.github.io/laborde.html",
+            "id": "https://nesman.dev/laborde.html",
+            "url": "https://nesman.dev/laborde.html",
             "title": "Laborde",
             "summary": "I liked the theme of Gorge, which is Alpine, and with that I present to you pl_laborde. A laboratory based&hellip;",
             "content_html": "<div class=\"bbWrapper\">I liked the theme of Gorge, which is Alpine, and with that I present to you pl_laborde. A laboratory based on a mountain side.</div>",
-            "image": "https://neilstottler.github.io/neilstottler.github.io/media/posts/2/20201223202423_1.jpg",
+            "image": "https://nesman.dev/media/posts/2/20201223202423_1.jpg",
             "author": {
                 "name": "Neil Stottler"
             },
@@ -26,12 +26,12 @@
             "date_modified": "2023-01-08T21:17:13-05:00"
         },
         {
-            "id": "https://neilstottler.github.io/neilstottler.github.io/rumford.html",
-            "url": "https://neilstottler.github.io/neilstottler.github.io/rumford.html",
+            "id": "https://nesman.dev/rumford.html",
+            "url": "https://nesman.dev/rumford.html",
             "title": "Rumford",
             "summary": "There is a lot of lore behind this map. It is based off of a paper mill in nothern Maine&hellip;",
             "content_html": "\n  <p>\n    There is a lot of lore behind this map. It is based off of a paper mill in nothern Maine in the town of Rumford. This is my entry into the Rule of Three's contest.\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://neilstottler.github.io/neilstottler.github.io/media/posts/1/20220323124513_1-2.jpg",
+            "image": "https://nesman.dev/media/posts/1/20220323124513_1-2.jpg",
             "author": {
                 "name": "Neil Stottler"
             },
