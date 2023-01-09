@@ -3,12 +3,36 @@
     <title>nesman.dev</title>
     <link href="https://neilstottler.github.io/neilstottler.github.io/feed.xml" rel="self" />
     <link href="https://neilstottler.github.io/neilstottler.github.io" />
-    <updated>2023-01-08T21:03:13-05:00</updated>
+    <updated>2023-01-08T21:17:13-05:00</updated>
     <author>
         <name>Neil Stottler</name>
     </author>
     <id>https://neilstottler.github.io/neilstottler.github.io</id>
 
+    <entry>
+        <title>Laborde</title>
+        <author>
+            <name>Neil Stottler</name>
+        </author>
+        <link href="https://neilstottler.github.io/neilstottler.github.io/laborde.html"/>
+        <id>https://neilstottler.github.io/neilstottler.github.io/laborde.html</id>
+        <media:content url="https://neilstottler.github.io/neilstottler.github.io/media/posts/2/20201223202423_1.jpg" medium="image" />
+            <category term="Level Design"/>
+
+        <updated>2023-01-08T21:17:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://neilstottler.github.io/neilstottler.github.io/media/posts/2/20201223202423_1.jpg" alt="" />
+                    I liked the theme of Gorge, which is Alpine, and with that I present to you pl_laborde. A laboratory based&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://neilstottler.github.io/neilstottler.github.io/media/posts/2/20201223202423_1.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="bbWrapper">I liked the theme of Gorge, which is Alpine, and with that I present to you pl_laborde. A laboratory based on a mountain side.</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rumford</title>
         <author>
