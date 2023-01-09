@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://neilstottler.github.io/neilstottler.github.io/sitemap.xml

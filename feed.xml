@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>nesman.dev</title>
+    <link href="https://neilstottler.github.io/neilstottler.github.io/feed.xml" rel="self" />
+    <link href="https://neilstottler.github.io/neilstottler.github.io" />
+    <updated>2023-01-08T21:03:13-05:00</updated>
+    <author>
+        <name>Neil Stottler</name>
+    </author>
+    <id>https://neilstottler.github.io/neilstottler.github.io</id>
+
+    <entry>
+        <title>Rumford</title>
+        <author>
+            <name>Neil Stottler</name>
+        </author>
+        <link href="https://neilstottler.github.io/neilstottler.github.io/rumford.html"/>
+        <id>https://neilstottler.github.io/neilstottler.github.io/rumford.html</id>
+        <media:content url="https://neilstottler.github.io/neilstottler.github.io/media/posts/1/20220323124513_1-2.jpg" medium="image" />
+            <category term="Level Design"/>
+
+        <updated>2023-01-08T21:03:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://neilstottler.github.io/neilstottler.github.io/media/posts/1/20220323124513_1-2.jpg" alt="" />
+                    There is a lot of lore behind this map. It is based off of a paper mill in nothern Maine&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://neilstottler.github.io/neilstottler.github.io/media/posts/1/20220323124513_1-2.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    There is a lot of lore behind this map. It is based off of a paper mill in nothern Maine in the town of Rumford. This is my entry into the Rule of Three's contest.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
