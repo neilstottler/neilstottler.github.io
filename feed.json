@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://nesman.dev/rocketforge.html",
+            "url": "https://nesman.dev/rocketforge.html",
+            "title": "Rocketforge",
+            "summary": "https://tf2maps.net/downloads/rocketforge.6927/",
+            "content_html": "<p><a href=\"#INTERNAL_LINK#/post/null\">https://tf2maps.net/downloads/rocketforge.6927/</a></p>",
+            "image": "https://nesman.dev/media/posts/4/20210112201826_1.jpg",
+            "author": {
+                "name": "Neil Stottler"
+            },
+            "tags": [
+                   "Level Design"
+            ],
+            "date_published": "2023-01-09T20:51:02-05:00",
+            "date_modified": "2023-01-09T20:51:08-05:00"
+        },
+        {
+            "id": "https://nesman.dev/baxter.html",
+            "url": "https://nesman.dev/baxter.html",
+            "title": "Baxter",
+            "summary": "Still writing up. https://tf2maps.net/downloads/baxter.12602/",
+            "content_html": "<p>Still writing up. <a href=\"#INTERNAL_LINK#/post/null\" target=\"_blank\" rel=\"noopener noreferrer\">https://tf2maps.net/downloads/baxter.12602/</a></p>",
+            "image": "https://nesman.dev/media/posts/3/20221117210945_1.jpg",
+            "author": {
+                "name": "Neil Stottler"
+            },
+            "tags": [
+                   "Level Design"
+            ],
+            "date_published": "2023-01-09T20:50:18-05:00",
+            "date_modified": "2023-01-09T20:50:18-05:00"
+        },
+        {
             "id": "https://nesman.dev/laborde.html",
             "url": "https://nesman.dev/laborde.html",
             "title": "Laborde",

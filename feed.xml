@@ -3,12 +3,60 @@
     <title>nesman.dev</title>
     <link href="https://nesman.dev/feed.xml" rel="self" />
     <link href="https://nesman.dev" />
-    <updated>2023-01-08T21:17:13-05:00</updated>
+    <updated>2023-01-09T20:51:08-05:00</updated>
     <author>
         <name>Neil Stottler</name>
     </author>
     <id>https://nesman.dev</id>
 
+    <entry>
+        <title>Rocketforge</title>
+        <author>
+            <name>Neil Stottler</name>
+        </author>
+        <link href="https://nesman.dev/rocketforge.html"/>
+        <id>https://nesman.dev/rocketforge.html</id>
+        <media:content url="https://nesman.dev/media/posts/4/20210112201826_1.jpg" medium="image" />
+            <category term="Level Design"/>
+
+        <updated>2023-01-09T20:51:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nesman.dev/media/posts/4/20210112201826_1.jpg" alt="" />
+                    https://tf2maps.net/downloads/rocketforge.6927/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nesman.dev/media/posts/4/20210112201826_1.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="#INTERNAL_LINK#/post/null">https://tf2maps.net/downloads/rocketforge.6927/</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Baxter</title>
+        <author>
+            <name>Neil Stottler</name>
+        </author>
+        <link href="https://nesman.dev/baxter.html"/>
+        <id>https://nesman.dev/baxter.html</id>
+        <media:content url="https://nesman.dev/media/posts/3/20221117210945_1.jpg" medium="image" />
+            <category term="Level Design"/>
+
+        <updated>2023-01-09T20:50:18-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nesman.dev/media/posts/3/20221117210945_1.jpg" alt="" />
+                    Still writing up. https://tf2maps.net/downloads/baxter.12602/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nesman.dev/media/posts/3/20221117210945_1.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Still writing up. <a href="#INTERNAL_LINK#/post/null" target="_blank" rel="noopener noreferrer">https://tf2maps.net/downloads/baxter.12602/</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Laborde</title>
         <author>
