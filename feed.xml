@@ -3,7 +3,7 @@
     <title>nesman.dev</title>
     <link href="https://nesman.dev/feed.xml" rel="self" />
     <link href="https://nesman.dev" />
-    <updated>2023-01-19T18:07:32-05:00</updated>
+    <updated>2023-01-19T18:41:23-05:00</updated>
     <author>
         <name>Neil Stottler</name>
     </author>
@@ -112,7 +112,7 @@
         <media:content url="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" medium="image" />
             <category term="Level Design"/>
 
-        <updated>2023-01-19T18:07:32-05:00</updated>
+        <updated>2023-01-19T18:41:23-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" alt="" />
@@ -218,14 +218,14 @@
     </figure>
     </div>
   </div>
-<div><sl-image-comparer>
+<div><sl-image-comparer position="25">
   <img loading="lazy"     slot="before"
-    src="https://images.unsplash.com/photo-1517331156700-3c241d2b4d83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80&sat=-100&bri=-5"
-    alt="Grayscale version of kittens in a basket looking around."
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119175850_1.jpg"
+    alt="Rumford in the first version."
    data-is-external-image="true">
   <img loading="lazy"     slot="after"
-    src="https://images.unsplash.com/photo-1517331156700-3c241d2b4d83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
-    alt="Color version of kittens in a basket looking around."
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119180003_1.jpg"
+    alt="Rumford in its finished state."
    data-is-external-image="true">
 </sl-image-comparer></div>
 
@@ -244,8 +244,55 @@
     </h2>
 
   <p>
-    This article is still a Work In Progress. I just wanted to get something on here.
+    Testing your map in Team Fortress 2 isn't as easy as loading the map up in singleplayer and adding some bots, well it is but the bots won't tell you much useful data. For this I leveraged TF2Maps.net and their map testing system. It incases playtesting sessions with actual people, a comprehensive <a href="https://feedback.tf2maps.net/map/pl_rumford_a1a/">feedback plugin</a>, demos so we can review in-game footage of what happened, and then their discord to ask people who played your map questions about feedback that was left.
   </p>
+
+  <p>
+    Testing your map with actual people is very important, they can do things you'll never expect. After tests I would try and gather my thoughts and observations in a <a href="https://tf2maps.net/threads/rumford.43762/">forum post</a>&nbsp;where I would talk about what I think needs to be done next. The first couple of tests were showing the basic track layout was alright and I could keep building on it rather than having to scrap an entire section of the map. I would also review the coldmaps, a plugin built by one of our users, where you can import your demo into the program and review player death/kill positions.&nbsp;
+  </p>
+<div><sl-image-comparer>
+  <img loading="lazy"     slot="before"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119180003_1.jpg"
+    alt="Rumford in the first version."
+   data-is-external-image="true">
+  <img loading="lazy"     slot="after"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119175850_1.jpg"
+    alt="Rumford in its finished state."
+   data-is-external-image="true">
+</sl-image-comparer></div>
+
+  <p>
+    
+  </p>
+
+    <h2 id="artpassing">
+      Artpassing
+    </h2>
+
+  <p>
+    ar
+  </p>
+<div><sl-image-comparer>
+  <img loading="lazy"     slot="before"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119180003_1.jpg"
+    alt="Rumford in the first version."
+   data-is-external-image="true">
+  <img loading="lazy"     slot="after"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119175850_1.jpg"
+    alt="Rumford in its finished state."
+   data-is-external-image="true">
+</sl-image-comparer>
+</div>
+<div><sl-image-comparer>
+  <img loading="lazy"     slot="before"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119180033_1.jpg"
+    alt="Rumford in the first version."
+   data-is-external-image="true">
+  <img loading="lazy"     slot="after"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119180131_1.jpg"
+    alt="Rumford in its finished state."
+   data-is-external-image="true">
+</sl-image-comparer></div>
             ]]>
         </content>
     </entry>
