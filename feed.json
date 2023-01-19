@@ -10,11 +10,26 @@
     },
     "items": [
         {
+            "id": "https://nesman.dev/devloping-a-script-in-python.html",
+            "url": "https://nesman.dev/devloping-a-script-in-python.html",
+            "title": "Devloping a Script in Python",
+            "summary": "Writing this up. I have made a script for tf2maps.net where it automatically downloads the features maps and either unzips&hellip;",
+            "content_html": "<p>Writing this up. I have made a script for tf2maps.net where it automatically downloads the features maps and either unzips them from a zip or bz2 and makes them all the same bsp filetype as well as generating a mapcycle text file. You can see the progress of the file here <a href=\"https://github.com/neilstottler/featured-maps-grabber\">https://github.com/neilstottler/featured-maps-grabber</a></p>",
+            "author": {
+                "name": "Neil Stottler"
+            },
+            "tags": [
+                   "Coding"
+            ],
+            "date_published": "2023-01-19T12:09:26-05:00",
+            "date_modified": "2023-01-19T12:09:41-05:00"
+        },
+        {
             "id": "https://nesman.dev/rocketforge.html",
             "url": "https://nesman.dev/rocketforge.html",
             "title": "Rocketforge",
-            "summary": "https://tf2maps.net/downloads/rocketforge.6927/",
-            "content_html": "<p><a href=\"#INTERNAL_LINK#/post/null\">https://tf2maps.net/downloads/rocketforge.6927/</a></p>",
+            "summary": "Still writing this up. https://tf2maps.net/downloads/rocketforge.6927/",
+            "content_html": "<p>Still writing this up. <a href=\"#INTERNAL_LINK#/post/null\">https://tf2maps.net/downloads/rocketforge.6927/</a></p>",
             "image": "https://nesman.dev/media/posts/4/20210112201826_1.jpg",
             "author": {
                 "name": "Neil Stottler"
@@ -23,7 +38,7 @@
                    "Level Design"
             ],
             "date_published": "2023-01-09T20:51:02-05:00",
-            "date_modified": "2023-01-09T20:51:08-05:00"
+            "date_modified": "2023-01-19T12:06:50-05:00"
         },
         {
             "id": "https://nesman.dev/baxter.html",
@@ -39,14 +54,14 @@
                    "Level Design"
             ],
             "date_published": "2023-01-09T20:50:18-05:00",
-            "date_modified": "2023-01-09T20:50:18-05:00"
+            "date_modified": "2023-01-19T12:06:39-05:00"
         },
         {
             "id": "https://nesman.dev/laborde.html",
             "url": "https://nesman.dev/laborde.html",
             "title": "Laborde",
             "summary": "I liked the theme of Gorge, which is Alpine, and with that I present to you pl_laborde. A laboratory based&hellip;",
-            "content_html": "<div class=\"bbWrapper\">I liked the theme of Gorge, which is Alpine, and with that I present to you pl_laborde. A laboratory based on a mountain side.</div>",
+            "content_html": "<div class=\"bbWrapper\">I liked the theme of Gorge, which is Alpine, and with that I present to you pl_laborde. A laboratory based on a mountain side. Write-up is still being made, see the tf2maps page instead for now. <a href=\"https://tf2maps.net/downloads/laborde.8559/\">https://tf2maps.net/downloads/laborde.8559/</a></div>",
             "image": "https://nesman.dev/media/posts/2/20201223202423_1.jpg",
             "author": {
                 "name": "Neil Stottler"
@@ -55,7 +70,7 @@
                    "Level Design"
             ],
             "date_published": "2023-01-08T21:16:49-05:00",
-            "date_modified": "2023-01-08T21:17:13-05:00"
+            "date_modified": "2023-01-19T12:06:31-05:00"
         },
         {
             "id": "https://nesman.dev/rumford.html",
