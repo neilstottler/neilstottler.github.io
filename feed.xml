@@ -3,7 +3,7 @@
     <title>nesman.dev</title>
     <link href="https://nesman.dev/feed.xml" rel="self" />
     <link href="https://nesman.dev" />
-    <updated>2023-01-19T12:09:41-05:00</updated>
+    <updated>2023-01-19T18:07:32-05:00</updated>
     <author>
         <name>Neil Stottler</name>
     </author>
@@ -112,7 +112,7 @@
         <media:content url="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" medium="image" />
             <category term="Level Design"/>
 
-        <updated>2023-01-19T11:20:07-05:00</updated>
+        <updated>2023-01-19T18:07:32-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" alt="" />
@@ -215,14 +215,19 @@
         <img loading="lazy" src="https://nesman.dev/media/posts/1/gallery/20210217222515_1-thumbnail.jpg" height="405" width="720" alt="" >
       </a>
       
-    </figure><figure class="gallery__item">
-      <a href="https://nesman.dev/media/posts/1/gallery/20210226180720_1.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://nesman.dev/media/posts/1/gallery/20210226180720_1-thumbnail.jpg" height="405" width="720" alt="" >
-      </a>
-      
     </figure>
     </div>
   </div>
+<div><sl-image-comparer>
+  <img loading="lazy"     slot="before"
+    src="https://images.unsplash.com/photo-1517331156700-3c241d2b4d83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80&sat=-100&bri=-5"
+    alt="Grayscale version of kittens in a basket looking around."
+   data-is-external-image="true">
+  <img loading="lazy"     slot="after"
+    src="https://images.unsplash.com/photo-1517331156700-3c241d2b4d83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+    alt="Color version of kittens in a basket looking around."
+   data-is-external-image="true">
+</sl-image-comparer></div>
 
   <p>
     Because of the contest I was limited to having three checkpoints where most traditional payload maps have four to five. My previous payload map, Laborde, had five checkpoints and was considered a long map. I was not used to three checkpoints. I decided to implement what was called a “delay mechanic” between Checkpoint B and the finale. Barnblitz does a similar thing just before Checkpoint B by using a turntable that stops the payload cart and holds it for about 10-15 seconds. I decided to do the same thing and have it be a mini checkpoint.
