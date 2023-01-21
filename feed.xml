@@ -3,7 +3,7 @@
     <title>nesman.dev</title>
     <link href="https://nesman.dev/feed.xml" rel="self" />
     <link href="https://nesman.dev" />
-    <updated>2023-01-20T08:25:55-05:00</updated>
+    <updated>2023-01-20T22:02:04-05:00</updated>
     <author>
         <name>Neil Stottler</name>
     </author>
@@ -112,7 +112,7 @@
         <media:content url="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" medium="image" />
             <category term="Level Design"/>
 
-        <updated>2023-01-20T08:25:55-05:00</updated>
+        <updated>2023-01-20T22:02:04-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" alt="" />
@@ -248,7 +248,7 @@
   </p>
 
   <p>
-    Testing your map with actual people is very important, they can do things you'll never expect. After tests I would try and gather my thoughts and observations in a <a href="https://tf2maps.net/threads/rumford.43762/">forum post</a>&nbsp;where I would talk about what I think needs to be done next. The first couple of tests were showing the basic track layout was alright and I could keep building on it rather than having to scrap an entire section of the map. I would also review the coldmaps, a plugin built by one of our users, where you can import your demo into the program and review player death/kill positions.&nbsp;
+    Testing your map with actual people is very important, they can do things you'll never expect. After tests I would try and gather my thoughts and observations in a <a href="https://tf2maps.net/threads/rumford.43762/">forum post</a>&nbsp;where I would talk about what I think needs to be done next. The first couple of tests were showing the basic track layout was alright and I could keep building on it rather than having to scrap an entire section of the map. I would also review the coldmaps, a plugin built by one of our users, where you can import your demo into the program and review player death/kill positions. The left is victim positions and the right is the killer.
   </p>
 <div><sl-image-comparer>
   <img loading="lazy"     slot="before"
@@ -262,12 +262,63 @@
 </sl-image-comparer></div>
 
   <p>
-    todo
+    From watching the demos, looking at the written feedback, and staring for hours at the coldmaps I could really see how the map was being received by players and what I should think about changing. That's one thing about level design many people don't consider, you can make all the changes you want but they might not be good changes at all. I toyed around in mspaint a lot trying to sketch out ideas for parts of the map that didn't play well.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nesman.dev/media/posts/1/A-idea.png" height="936" width="1680" alt="sketch of A point"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://nesman.dev/media/posts/1/responsive/A-idea-xs.png 300w ,https://nesman.dev/media/posts/1/responsive/A-idea-sm.png 480w ,https://nesman.dev/media/posts/1/responsive/A-idea-md.png 768w">
+      
+    </figure>
+
+  <p>
+    I was even receiving feedback from other mappers and testers that had paintovers of possible ideas that might make an area flow better.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://nesman.dev/media/posts/1/idofeedbackB.png" height="681" width="1196" alt="feedback from community member idolon"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://nesman.dev/media/posts/1/responsive/idofeedbackB-xs.png 300w ,https://nesman.dev/media/posts/1/responsive/idofeedbackB-sm.png 480w ,https://nesman.dev/media/posts/1/responsive/idofeedbackB-md.png 768w">
+      
+    </figure>
+
+  <p>
+    The iterative process isn't something that is new to me. I saw it when I participated in <a href="https://en.wikipedia.org/wiki/FIRST_Robotics_Competition">FRC</a> in high school especially with that six week time crunch. This was no different especially since I was under the time crunch of participating in the contest. Each version I was trying something different, tweaking something I already, trying to perfect the gameplay so players enjoyed something I made. You can see the layout change from the first version to the tenth version below.
+  </p>
+<div><sl-image-comparer>
+  <img loading="lazy"     slot="before"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230120205832_1.jpg"
+    alt="Rumford B overview A1."
+   data-is-external-image="true">
+  <img loading="lazy"     slot="after"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230120205620_1.jpg"
+    alt="Rumford B overview A10."
+   data-is-external-image="true">
+</sl-image-comparer></div>
+
+  <p>
+    Last was probably one of the hardest parts of the map to design. I have a track record of redesign payload lasts a lot. Laborde has gone through about five or six new designs and I'm still not happy with how that map is. This map was no different really although I didn't completely scrap the basic concept.
+  </p>
+<div><sl-image-comparer>
+  <img loading="lazy"     slot="before"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230120205527_1.jpg"
+    alt="Rumford last a1."
+   data-is-external-image="true">
+  <img loading="lazy"     slot="after"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230120205811_1.jpg"
+    alt="Rumford last a10."
+   data-is-external-image="true">
+</sl-image-comparer></div>
+
+  <p>
+    The routes were the main focus as the overall feel of the room was fine. I generally like to stick to a one main route (the cart path) and two flanks. However, because this last was at a 90 degree angle it was making one of the flanks overpowered due to players reaching the last area before the cart was getting pushed in. So I kept toying around with the flanks but kept the basic cart path throughout most of the map.
   </p>
 
     <h2 id="artpassing">
       Artpassing
     </h2>
+
+  <p>
+    Well the <a href="https://tf2maps.net/threads/contest-50-rule-of-threes-minor-contest-results.44087/">minor contest</a> is over now onto the major! That means detailing and lots of it. I decided to record a timelapse of myself detailing the map and have been uploading that series to youtube.
+  </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/0S9ozuQwPXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
 
   <p>
     todo
@@ -293,6 +344,7 @@
     alt="Rumford in its finished state."
    data-is-external-image="true">
 </sl-image-comparer></div>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/cDxiM08v9Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
             ]]>
         </content>
     </entry>
