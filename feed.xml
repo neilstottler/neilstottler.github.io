@@ -3,7 +3,7 @@
     <title>nesman.dev</title>
     <link href="https://nesman.dev/feed.xml" rel="self" />
     <link href="https://nesman.dev" />
-    <updated>2023-01-21T21:03:05-05:00</updated>
+    <updated>2023-01-21T21:07:07-05:00</updated>
     <author>
         <name>Neil Stottler</name>
     </author>
@@ -112,7 +112,7 @@
         <media:content url="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" medium="image" />
             <category term="Level Design"/>
 
-        <updated>2023-01-21T21:03:05-05:00</updated>
+        <updated>2023-01-21T21:07:07-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" alt="" />
@@ -435,15 +435,7 @@
 <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/cDxiM08v9Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
 
   <p>
-    Thanks for taking the time to read the article. There's a lot more I didn't cover that I hope to add at some point but feel free to read my update notes and how the map developed. Oh, and go upvote it on the <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2785679828">steam workshop</a>.
-  </p>
-
-  <p>
-    https://tf2maps.net/downloads/rumford.11023/
-  </p>
-
-  <p>
-    
+    Thanks for taking the time to read the article. There's a lot more I didn't cover that I hope to add at some point but feel free to read my <a href="https://tf2maps.net/downloads/rumford.11023/">update notes</a> and how the map developed. Oh, and go upvote it on the <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2785679828">steam workshop</a>.
   </p>
             ]]>
         </content>
