@@ -3,7 +3,7 @@
     <title>nesman.dev</title>
     <link href="https://nesman.dev/feed.xml" rel="self" />
     <link href="https://nesman.dev" />
-    <updated>2023-01-21T20:57:47-05:00</updated>
+    <updated>2023-01-21T21:03:05-05:00</updated>
     <author>
         <name>Neil Stottler</name>
     </author>
@@ -112,7 +112,7 @@
         <media:content url="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" medium="image" />
             <category term="Level Design"/>
 
-        <updated>2023-01-21T20:57:47-05:00</updated>
+        <updated>2023-01-21T21:03:05-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nesman.dev/media/posts/1/20220323124513_1-2.jpg" alt="" />
@@ -341,11 +341,11 @@
 <div><sl-image-comparer>
   <img loading="lazy"     slot="before"
     src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119180003_1.jpg"
-    alt="Rumford in the first version."
+    alt="Rumford in its finished state."
    data-is-external-image="true">
   <img loading="lazy"     slot="after"
     src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230119175850_1.jpg"
-    alt="Rumford in its finished state."
+    alt="Rumford in the first version."
    data-is-external-image="true">
 </sl-image-comparer>
 </div>
@@ -359,9 +359,19 @@
     alt="Rumford in the first version."
    data-is-external-image="true">
 </sl-image-comparer></div>
+<div><sl-image-comparer>
+  <img loading="lazy"     slot="before"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230121205739_1.jpg"
+    alt="Rumford in its finished state."
+   data-is-external-image="true">
+  <img loading="lazy"     slot="after"
+    src="https://raw.githubusercontent.com/neilstottler/neilstottler.github.io/main/media/files/20230121205659_1.jpg"
+    alt="Rumford in the first version."
+   data-is-external-image="true">
+</sl-image-comparer></div>
 
   <p>
-    Sometimes I would have to completely rethink how an area would look. There's a lot of creativity you can have when it comes to making an area look nice.
+    Sometimes I would have to completely rethink how an area would look. There's a lot of creativity you can have when it comes to making an area look nice. The dam was a really cool set piece to make and I wish I was able to show it off more in the map. Dams are needed for paper mills so it's very fitting!
   </p>
 <div><sl-image-comparer>
   <img loading="lazy"     slot="before"
@@ -420,9 +430,21 @@
 </sl-image-comparer></div>
 
   <p>
-    There's more to a&nbsp;
+    There's more to a map than just how it looks. Soundscapes are an important part in making the player feel where they are, the outdoor areas had outdoor sounds and indoor areas had indoor sounds. Even specific machinery had a specific sound so you could know that you are at the woodchip conveyer belt versus being at the substation. Below is a flythrough video of the map.
   </p>
 <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/cDxiM08v9Go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
+
+  <p>
+    Thanks for taking the time to read the article. There's a lot more I didn't cover that I hope to add at some point but feel free to read my update notes and how the map developed. Oh, and go upvote it on the <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2785679828">steam workshop</a>.
+  </p>
+
+  <p>
+    https://tf2maps.net/downloads/rumford.11023/
+  </p>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
